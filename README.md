@@ -1,2 +1,2 @@
-# High Performance DevOps
-High Performance DevOps, by BPB Publications
+# Strategic DevOps 
+Strategic DevOps, by BPB Publications
